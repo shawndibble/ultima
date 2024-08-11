@@ -6,7 +6,7 @@ title: Ultima D&D Campaign
 
 ## Current Status
 
-* In the City of Menzoberranzan in the Underdark trying to locate the second phylactery.
+* In the City of [[Menzoberranzan in the Underdark trying to locate the second phylactery.
 
 > [!tip] Players
  
