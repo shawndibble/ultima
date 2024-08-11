@@ -17,5 +17,5 @@
 # Sessions of note
 
 * Started in [[05 - The Interrogation]]
-* First one released in [[6 - The First Phylactery]]
+* First one released in [[06 - The First Phylactery]]
 * Discover there are 7 in total in [[7 - The Priestess]]
