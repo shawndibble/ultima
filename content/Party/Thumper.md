@@ -1,12 +1,14 @@
-![[Pasted image 20240810192516.png|200]]
-
-| Player          | Shawn                                                          |
-| --------------- | -------------------------------------------------------------- |
-| Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122811217)    |
-| Role            | Chrono Wizard                                                  |
-| Race            | Harengon                                                       |
-| Background      | Sage - Researcher                                              |
-| God             | [Celestian](https://forgottenrealms.fandom.com/wiki/Celestian) |
+> [!infobox]
+> # Thumper
+> ![[Pasted image 20240810192516.png|200]]
+> ###### Info
+> | Player          | Shawn                                                          |
+> | --------------- | -------------------------------------------------------------- |
+> | Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122811217)    |
+> | Role            | Chrono Wizard                                                  |
+> | Race            | Harengon                                                       |
+> | Background      | Sage - Researcher                                              |
+> | God             | [Celestian](https://forgottenrealms.fandom.com/wiki/Celestian) |
 
 # Background
 

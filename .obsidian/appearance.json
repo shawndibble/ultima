@@ -1,6 +1,7 @@
 {
   "cssTheme": "Border",
   "enabledCssSnippets": [
-    "S - Images Adjustments"
+    "S - Images Adjustments",
+    "S - Callouts"
   ]
 }
