@@ -1,6 +1,7 @@
 ---
 date: 2024-05-14
 ---
+> [!]
 # Notes
 
 We head off to the headmaster of the mage's guild named [[Rodger]]. We explain everything that happened to us the night before with the box.
