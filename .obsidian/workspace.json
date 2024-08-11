@@ -16,7 +16,7 @@
                 "file": "content/Party/Thumper.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -150,18 +150,19 @@
   },
   "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
+    "content/Sessions/04 - Entering the Tower.md",
+    "content/Party/Thumper.md",
+    "content/Party/attachments/Pasted image 20240811122911.png",
     "content/Party/Bird Hat.md",
     "content/Party/Ba'dr.md",
     "content/Party/Ashken.md",
     "content/Party/attachments/Pasted image 20240811122444.png",
-    "content/Party/Thumper.md",
     "content/Places/Menzoberanzza.md",
     "content/index.md",
     "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Sessions/01 - Our Journey Begins.md",
     "content/Sessions/02 - To the Mage's Guild.md",
     "content/Sessions/03 - Delivering a Letter.md",
-    "content/Sessions/04 - Entering the Tower.md",
     "content/Sessions/05 - The Interrogation.md",
     "content/Sessions/06 - The First Phylactery.md",
     "content/Sessions/07 - The Priestess.md",
