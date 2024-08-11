@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/People/Ultima.md",
+                "file": "content/People/Rodger.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/People/Ultima.md",
+                "file": "content/People/Rodger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/People/Ultima.md",
+                "file": "content/People/Rodger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/People/Ultima.md"
+                "file": "content/People/Rodger.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   },
   "active": "17e712856987a579",
   "lastOpenFiles": [
+    "content/People/IO.md",
+    "content/People/Ultima.md",
     "content/People/Theo.md",
     "content/People/The Many Faced God.md",
     "content/Places/Moonshae Isles.md",
     "content/Places/attachments/Pasted image 20240811125922.png",
     "content/Places/attachments/Pasted image 20240811004323.png",
-    "content/People/Ultima.md",
-    "content/People/IO.md",
     "content/Sessions/05 - The Interrogation.md",
     "content/Sessions/06 - The First Phylactery.md",
     "content/Places/Baldur's Gate.md",
