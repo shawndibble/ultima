@@ -13,9 +13,9 @@ We return to the tower where a team from the mage's guild shows up to arrest us.
 # Loot
 
 * Ring of Summoning - rainbow in color. Allows the user to speak to a specific animal. To [[Ashken]]
-* Ioun Stone - To [[Ba'dr]]
-* Wand of the War Mage - [[Thumper]]
-* Amulet of Health - [[Ba'dr]]
+* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) - To [[Ba'dr]]
+* [Wand of the War Mage](https://www.dndbeyond.com/magic-items/34712-wand-of-the-war-mage) - [[Thumper]]
+* [Amulet of Health](https://www.dndbeyond.com/magic-items/4568-amulet-of-health) - [[Ba'dr]]
 # Other notes
 
 * Everyone lost their secret perks
