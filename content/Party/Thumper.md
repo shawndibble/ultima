@@ -1,4 +1,3 @@
-
 ![[Pasted image 20240810192516.png|200]]
 
 | Player          | Shawn                                                       |

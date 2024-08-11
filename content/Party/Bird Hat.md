@@ -1,11 +1,6 @@
-| Player          | Lee                                                         |
+| Player          | Kyle/Zura                                                   |
 | --------------- | ----------------------------------------------------------- |
-| Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122814251) |
-| Role            | Melee Spellsword                                            |
-| Race            | Dark Elf                                                    |
+| Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122814286) |
+| Role            | Bard                                                        |
+| Race            | Human                                                       |
 
-Player: Kyle/Zura
-
-Character sheet: [DnDBeyond](https://www.dndbeyond.com/characters/122814286)
-
-Role: Bard
