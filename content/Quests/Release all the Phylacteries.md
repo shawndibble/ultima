@@ -6,4 +6,4 @@ Started in session [[5 - The Interrogation]].
 
 ## In Progress
 
-2. Menzoberanzza. Whip owned by house of stein.
+2. [[Menzoberanzza]]. Whip owned by house of stein.
