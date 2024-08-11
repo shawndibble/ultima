@@ -4,4 +4,4 @@ We was good to us offering room and board as well as supplies for running delive
 
 # Disappearance
 
-Upon returning to the city 
+Upon returning to the city in [[05 - The Interrogation]] we discover that he was taken away with Oxa by [[IO]] and our guild [[Ultima]] is closed down.

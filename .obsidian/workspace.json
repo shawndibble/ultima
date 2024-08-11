@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/People/Theo.md",
+                "file": "content/People/The Many Faced God.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/People/Theo.md",
+                "file": "content/People/The Many Faced God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/People/Theo.md",
+                "file": "content/People/The Many Faced God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/People/Theo.md"
+                "file": "content/People/The Many Faced God.md"
               }
             }
           }
@@ -150,7 +150,11 @@
   },
   "active": "17e712856987a579",
   "lastOpenFiles": [
+    "content/People/Theo.md",
     "content/People/Ultima.md",
+    "content/People/IO.md",
+    "content/Sessions/05 - The Interrogation.md",
+    "content/Sessions/06 - The First Phylactery.md",
     "content/Places/Baldur's Gate.md",
     "content/Places/Menzoberanzzan.md",
     "content/Places/Moonshae Isles.md",
@@ -170,8 +174,6 @@
     "content/Sessions/01 - Our Journey Begins.md",
     "content/Sessions/02 - To the Mage's Guild.md",
     "content/Sessions/03 - Delivering a Letter.md",
-    "content/Sessions/05 - The Interrogation.md",
-    "content/Sessions/06 - The First Phylactery.md",
     "content/Sessions/07 - The Priestess.md",
     "content/Sessions/09 - The House of Stein.md",
     "content/Sessions/10 - Head of the House.md",
@@ -183,7 +185,6 @@
     "content/People/The Many Faced God.md",
     "content/People/Rodger.md",
     "content/Places",
-    "README.md",
     "content/Party/attachments/Pasted image 20240810192516.png",
     "content/Party/attachments",
     "attachments/Pasted image 20240810190937.png",
