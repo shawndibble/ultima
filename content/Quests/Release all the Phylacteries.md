@@ -2,7 +2,7 @@
 Started in session [[5 - The Interrogation]].
 ## Released
 
-1. Moonshade isles. Isle of Northland. Humanoid being.
+1. Moonshade isles. Isle of Northland. Humanoid being. [[6 - The Seer Awakens.]]
 
 ## In Progress
 
