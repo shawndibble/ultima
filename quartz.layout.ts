@@ -9,9 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/shawndibble/ultima/tree/v4/content",
-      Obsidian: "https://help.obsidian.md/Editing+and+formatting",
+      "Obsidian Formatting":
+        "https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax",
       "Image Styling": "https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments",
-      "Callout Extras": https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments
+      "Callout Extras": "https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments",
     },
   }),
 }
