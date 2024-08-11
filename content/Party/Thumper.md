@@ -3,7 +3,7 @@
 
 | Player          | Shawn                                                       |
 | --------------- | ----------------------------------------------------------- |
-| Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122814251) |
+| Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122811217) |
 | Role            | Melee Spellsword                                            |
 | Race            | Dark Elf                                                    |
 Player: Shawn
