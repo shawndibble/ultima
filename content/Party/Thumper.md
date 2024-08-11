@@ -1,5 +1,4 @@
 > [!infobox]
-> # Thumper
 > ![[Pasted image 20240810192516.png]]
 > ###### Shawn
 > | Category | Info |
@@ -9,6 +8,7 @@
 > | Race            | Harengon                                                       |
 > | Background      | Sage - Researcher                                              |
 > | God             | [Celestian](https://forgottenrealms.fandom.com/wiki/Celestian) |
+> 
 
 # Background
 
