@@ -2,6 +2,7 @@
 title: 1 - Our Journey Begins
 date: 2024-04-30
 ---
+> [!tldr] 
 # Notes
 
 We start out meeting [[Theo]] at our guild [[Ultima]] in [[Baldur's Gate]]. We are given a quest to deliver a package discretely. 
