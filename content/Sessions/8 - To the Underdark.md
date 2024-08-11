@@ -1,3 +1,7 @@
+---
+date: 2024-07-13
+---
+
 # Notes
 
 The high priestess informs us that the next piece of the phylactery is located in [[Menzoberranza]] and is under control by the House of Stein. We do not have any other information.
@@ -8,4 +12,4 @@ Upon arrival, we are attacked by monsters but we dispatch them. We also notice t
 
 Upon reaching the city, we see that only dark elves walk around freely, any other race is a slave that follows their dark elf master. We also see they all wear caps that signal their house.
 
-We lure a random group and kill them and utilize their cape to 
+We lure a random group and kill them and utilize their cape to move about the city.
