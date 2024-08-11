@@ -1930,7 +1930,7 @@ body:not(.callout-no-metadata)
   margin: 5px;
 }
 
-body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callout="quote"] {
+/* body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callout="quote"] {
   --callout-icon: "";
   --callout-color: var(--color-accent);
   --callout-padding: 20px 30px;
@@ -2048,7 +2048,7 @@ body:not(.default-callout-quote, .callout-no-quote)
   .callout.callout[data-callout="quote"][data-callout-metadata~="mark"]
   .callout-content::before {
   right: 65px;
-}
+} */
 
 .callout-original .callout,
 .callout:is([data-callout-metadata~="callout-original"], [data-callout-metadata~="co-o"]) {
@@ -2163,8 +2163,7 @@ body:not(.default-callout-quote, .callout-no-quote)
     [data-callout="Timeline" i],
     [data-callout="Recite" i],
     [data-callout="Columns" i],
-    [data-callout="Infobox" i],
-    [data-callout="Quote" i]
+    [data-callout="Infobox" i]
   )
   > .callout-title {
   display: flex;
@@ -2178,8 +2177,7 @@ body:not(.default-callout-quote, .callout-no-quote)
     [data-callout="Timeline" i],
     [data-callout="Recite" i],
     [data-callout="Columns" i],
-    [data-callout="Infobox" i],
-    [data-callout="Quote" i]
+    [data-callout="Infobox" i]
   )
   > .callout-title
   > .callout-icon {
