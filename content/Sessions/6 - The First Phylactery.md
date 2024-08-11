@@ -21,3 +21,5 @@ We return to our teleportation spot and return to [[Baldur's Gate]].
 # Key Points
 
 * We [[Release all the Phylacteries|released the first phylactery]].
+
+> [!INFO] We reach level 10
