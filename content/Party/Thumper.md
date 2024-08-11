@@ -11,4 +11,4 @@
 
 # Background
 
-Parent: Humper & Sarah. 
+Grew up on a farm with 27 siblings
