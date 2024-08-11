@@ -4,4 +4,4 @@ An unknown god that was so dangers to the other gods that the other gods broke t
 
 # People of Interest
 
-[[Rodger]] - has been helping us greatly in 
+[[Rodger]] - has been helping us greatly in teleportin
