@@ -17,6 +17,6 @@ We then go to a seer named Agatha to look into the mind of [[Ba'dr]], but the se
 
 We stay the night
 
-## Significant 
+## Key Points 
 
 > [!INFO] We reach level 9
