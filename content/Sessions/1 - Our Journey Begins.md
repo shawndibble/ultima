@@ -2,7 +2,7 @@
 title: 1 - Our Journey Begins
 date: 2024-04-30
 ---
-# Notes
+## Notes
 
 We start out meeting [[Theo]] at our guild [[Ultima]] in [[Baldur's Gate]]. We are given a quest to deliver a package discretely. 
 
@@ -22,6 +22,6 @@ When we arrived at our destination, we find a corpse which we figure was our del
 
 In the end, we all lose our jobs at [[Ultima]] but are still paid.
 
-# Loot
+## Loot
 
 * 4k gold
