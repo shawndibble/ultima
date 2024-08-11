@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#philactoriesQuest",
+                "query": "tag:#second-phylactery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Places/Menzoberanzza.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,6 +151,7 @@
   },
   "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
+    "content/index.md",
     "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Sessions/01 - Our Journey Begins.md",
     "content/Sessions/02 - To the Mage's Guild.md",
@@ -166,7 +169,6 @@
     "quartz/styles/image-snippet.css",
     "content/Places/Moonshade Isles.md",
     "content/Menzoberranza.md",
-    "content/index.md",
     "content/Party/Bird Hat.md",
     "content/Party/Ba'dr.md",
     "content/Party/Ashken.md",
