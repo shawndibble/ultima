@@ -16,6 +16,9 @@
 
 # Sessions of note
 
-* Started in [[05 - The Interrogation]]
-* First one released in [[06 - The First Phylactery]]
-* Discover there are 7 in total in [[07 - The Priestess]]
+* Started - [[05 - The Interrogation]]
+* First one released - [[06 - The First Phylactery]]
+* Discover there are 7 in total - [[07 - The Priestess]]
+* Second item
+	* location - [[08 - To the Underdark]]
+	* Is a whip - [[09 - The House of Stein]] & [[10 - Head of the House]]

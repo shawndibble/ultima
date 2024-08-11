@@ -1,3 +1,5 @@
+#second-phylactery
+
 ![[Pasted image 20240811004036.png]]
 
 # Location Info
@@ -10,4 +12,4 @@ Only dark elves walk around on their own. All other races are slaves that follow
 
 # Quest notes
 
-We have idea that we want to go to the House of Stein in here for the [[Release all the Phylacteries|second phylactery]].
+We know that we want to go to the House of Stein in this city for the [[Release all the Phylacteries|second phylactery]].
