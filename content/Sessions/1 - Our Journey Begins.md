@@ -2,7 +2,12 @@
 title: 1 - Our Journey Begins
 date: 2024-04-30
 ---
-> [!tldr] 
+> [!tldr] Summary
+> You start in the guild **Ultima** in **Baldur's Gate**, where you receive a quest to discreetly deliver an extravagant jewelry box to the Asslot family. The package, however, behaves strangely during transport and opens, releasing a magical aura. Upon arrival, you find a corpse, presumably the delivery target.
+>
+> **Ba'dr** returns to **Ultima** with the box, while **Bird Hat** investigates the manor, discovering the duke and his daughters are missing and retrieves an insignia. **Ba'dr** tries to flee with the box after a confrontation with **Theo**, but you catch him and find that the box is infused with failed ancient runic magic.
+> 
+ >Ultimately, you all lose your jobs at **Ultima**, but you are still paid.
 # Notes
 
 We start out meeting [[Theo]] at our guild [[Ultima]] in [[Baldur's Gate]]. We are given a quest to deliver a package discretely. 
