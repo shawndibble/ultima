@@ -6,5 +6,5 @@ We meet the head priestess of [[The Many Faced God]] and she tells us that when 
 
 In order to control this god, we must find the 7 phylacteries.
 
-> [~attention] We have been marked by The Many Faced God.
+> [!attention] We have been marked by The Many Faced God.
 
