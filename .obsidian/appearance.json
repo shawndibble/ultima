@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "S - Images Adjustments"
+  ]
 }
