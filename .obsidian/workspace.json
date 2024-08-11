@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Party/Thumper.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Party/Thumper.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Party/Thumper.md",
+                "file": "content/Places/Menzoberanzza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Party/Thumper.md"
+                "file": "content/Places/Menzoberanzza.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "197ec8292e8b1768",
+  "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
+    "content/Party/Thumper.md",
     "quartz/styles/images.css",
     "quartz/styles/image-snippet.css",
     "content/Places/Menzoberanzza.md",
@@ -167,7 +168,6 @@
     "content/Menzoberranza.md",
     "content/index.md",
     "content/Party/Bird Hat.md",
-    "content/Party/Thumper.md",
     "content/Party/Ba'dr.md",
     "content/Party/Ashken.md",
     "content/Quests & Misc/Paragon Paths.md",
