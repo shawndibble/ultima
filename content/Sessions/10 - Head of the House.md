@@ -10,4 +10,4 @@ After that, we meet 3 dark elf ladies. One being the head of the house, an arch 
 > [!quote] Dark elf arch mage
 > You are destined to meet the life that is yet to be.
 
-[[Thumper]] goes to sit with them an dis
+[[Thumper]] goes to sit with them an talk. They appear to possibly be vampiric. 
