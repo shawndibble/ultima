@@ -1,8 +1,12 @@
 ---
 title: Ultima D&D Campaign
 ---
-> [!QUOTE] > [We are] destined to meet the life that is yet to be
+> [!QUOTE] Dark Elf Arch Mage
+> You are destined to meet the life that is yet to be
 
+## Current Status
+
+* In the City of Menzoberranzan in the Underdark trying to locate the second phylactery.
 
 > [!tip] Players
  
