@@ -18,4 +18,4 @@
 
 * Started in [[5 - The Interrogation]]
 * First one released in [[6 - The First Phylactery]]
-* Discover there 
+* Discover there are 7
