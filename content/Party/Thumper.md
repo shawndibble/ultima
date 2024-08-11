@@ -14,7 +14,7 @@ Grew up on a farm with 27 siblings and my parents (Humper & Sarah). Traveled to 
 
 # Notable Items
 
-* [Sending Stone](https://www.dndbeyond.com/magic-items/5402-sending-stones) 
+* [Sending Stone](https://www.dndbeyond.com/magic-items/5402-sending-stones) - [[Rodger]] has the other
 * [Bag of Holding](https://www.dndbeyond.com/magic-items/4581-bag-of-holding)
 * [Peregrine Mask](https://www.dndbeyond.com/magic-items/316764-peregrine-mask)
 * [Amulet of Health](https://www.dndbeyond.com/magic-items/4568-amulet-of-health)
