@@ -1,1 +1,1 @@
-A group of islands
+A group of islands in which we suspect a phylactery is located. 
