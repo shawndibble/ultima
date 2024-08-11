@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Places/Menzoberanzzan.md",
+                "file": "content/People/Theo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Places/Menzoberanzzan.md",
+                "file": "content/People/Theo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Places/Menzoberanzzan.md",
+                "file": "content/People/Theo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Places/Menzoberanzzan.md"
+                "file": "content/People/Theo.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "17e712856987a579",
   "lastOpenFiles": [
-    "content/Places/Moonshae Isles.md",
-    "content/Party/Thumper.md",
+    "content/People/Ultima.md",
     "content/Places/Baldur's Gate.md",
     "content/Places/Menzoberanzzan.md",
+    "content/Places/Moonshae Isles.md",
+    "content/Party/Thumper.md",
     "content/Places/attachments/Pasted image 20240811125922.png",
     "content/Sessions/08 - To the Underdark.md",
     "content/index.md",
@@ -179,7 +180,6 @@
     "content/Menzoberranza.md",
     "content/Quests & Misc/Paragon Paths.md",
     "content/Places/attachments",
-    "content/People/Ultima.md",
     "content/People/The Many Faced God.md",
     "content/People/Rodger.md",
     "content/Places",
