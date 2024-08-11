@@ -2,7 +2,7 @@
 Started in session [[5 - The Interrogation]].
 ## Released
 
-1. Moonshade isles. Isle of Northland. Humanoid being. [[6 - The First Phylactery]]
+1. [[Moonshade Isles]]. Isle of Norland. Humanoid being. [[6 - The First Phylactery]]
 
 ## In Progress
 
