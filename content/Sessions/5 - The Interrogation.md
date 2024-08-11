@@ -7,3 +7,4 @@ During the interrogation of the survivor, we find out they believe we are cultis
 
 > [!todo] Release the god's soul bound phylacteries
 
+After the interrogation, we begin our trip back to [[Baldur's Gate]]. We encounter some "goblins" who are especially touch for what they are and fade to another real
