@@ -18,3 +18,4 @@ The 3 of us returns to the mage's guild and pick up [[Ba'dr]] who has attacked t
 
 # Key Points
 
+* We relea*
