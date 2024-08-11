@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Party/Thumper.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Party/Thumper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Party/Thumper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Places/Menzoberanzza.md"
+                "file": "content/Party/Thumper.md"
               }
             }
           }
@@ -151,6 +150,12 @@
   },
   "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
+    "content/Party/Bird Hat.md",
+    "content/Party/Ba'dr.md",
+    "content/Party/Ashken.md",
+    "content/Party/attachments/Pasted image 20240811122444.png",
+    "content/Party/Thumper.md",
+    "content/Places/Menzoberanzza.md",
     "content/index.md",
     "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Sessions/01 - Our Journey Begins.md",
@@ -163,15 +168,10 @@
     "content/Sessions/08 - To the Underdark.md",
     "content/Sessions/09 - The House of Stein.md",
     "content/Sessions/10 - Head of the House.md",
-    "content/Places/Menzoberanzza.md",
-    "content/Party/Thumper.md",
     "quartz/styles/images.css",
     "quartz/styles/image-snippet.css",
     "content/Places/Moonshade Isles.md",
     "content/Menzoberranza.md",
-    "content/Party/Bird Hat.md",
-    "content/Party/Ba'dr.md",
-    "content/Party/Ashken.md",
     "content/Quests & Misc/Paragon Paths.md",
     "content/Places/attachments/Pasted image 20240811004323.png",
     "content/Places/attachments/Pasted image 20240811004036.png",
