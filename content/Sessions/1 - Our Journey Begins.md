@@ -27,3 +27,5 @@ In the end, we all lose our jobs at [[Ultima]] but are still paid.
 # Loot
 
 * 4k gold
+
+> [!INFO] We reach level 6

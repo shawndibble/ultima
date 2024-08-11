@@ -20,4 +20,5 @@ The party returns to the guild hall while [[Ba'dr]] goes to investigate the book
 
 > [!IMPORTANT] Mission
 > We are to deliver the letter to a tower hundreds of miles away ASAP.
-> 
+
+> [!INFO] We reach level 7
