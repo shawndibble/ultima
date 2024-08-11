@@ -17,6 +17,6 @@ Eventually we fight the 3. The arch mage takes out the whip weapon. We do defeat
 # Key Points
 
 * [[Bird Hat]] loses his cards as a result of the dark elf magic.
-* We pick our second Paragon Path point.
+* We pick our second [[Paragon Paths]] point.
 
 > [!info] We reach level 11

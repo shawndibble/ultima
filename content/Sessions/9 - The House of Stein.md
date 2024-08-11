@@ -11,4 +11,4 @@ We go investigate the upper floors. The rest of the house has no one, we do find
 
 # Key Points
 
-The Paragon Path opens up to us and we are all able to pick our first one.
+The [[Paragon Paths]] opens up to us and we are all able to pick our first one.
