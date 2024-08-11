@@ -1,7 +1,8 @@
 ---
 date: 2024-05-14
 ---
-> [!]
+> [!tldr] Summary
+> We report to Rodger about the magical box, revealing it’s meant to prevent The Many Faced God's return. Later, we find the manor’s servants dead and discover Rodger investigating. Crows follow us around, and we receive a mission from the guild to urgently deliver a letter to a distant tower.
 # Notes
 
 We head off to the headmaster of the mage's guild named [[Rodger]]. We explain everything that happened to us the night before with the box.
