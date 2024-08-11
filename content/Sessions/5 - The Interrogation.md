@@ -1,7 +1,7 @@
 ---
 date: 2024-06-08
 ---
-## Notes
+# Notes
 
 During the interrogation of the survivor, we find out they believe we are cultists of [[The Many Faced God]].
 
@@ -17,6 +17,6 @@ We then go to a seer named Agatha to look into the mind of [[Ba'dr]], but the se
 
 We stay the night
 
-## Key Points 
+# Key Points 
 
 > [!INFO] We reach level 9
