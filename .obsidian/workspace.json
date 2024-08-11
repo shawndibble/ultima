@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a86f17434be8b597",
+        "id": "28d17ffd6ed507e2",
         "type": "tabs",
         "children": [
           {
-            "id": "17e712856987a579",
+            "id": "ddbec131c2f6bda6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,25 +148,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17e712856987a579",
+  "active": "ddbec131c2f6bda6",
   "lastOpenFiles": [
+    "content/Places/Baldur's Gate.md",
+    "content/Places/Moonshae Isles.md",
+    "content/Quests & Misc/Release all the Phylacteries.md",
+    "content/Quests & Misc/Paragon Paths.md",
+    "content/Places/Menzoberanzzan.md",
     "content/People/Rodger.md",
     "quartz/styles/S - Callouts.css",
     "content/People/IO.md",
     "content/People/Ultima.md",
     "content/People/Theo.md",
     "content/People/The Many Faced God.md",
-    "content/Places/Moonshae Isles.md",
     "content/Places/attachments/Pasted image 20240811125922.png",
     "content/Places/attachments/Pasted image 20240811004323.png",
     "content/Sessions/05 - The Interrogation.md",
     "content/Sessions/06 - The First Phylactery.md",
-    "content/Places/Baldur's Gate.md",
-    "content/Places/Menzoberanzzan.md",
     "content/Party/Thumper.md",
     "content/Sessions/08 - To the Underdark.md",
     "content/index.md",
-    "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Places/attachments/Pasted_image_20240811004036.png",
     "content/Sessions/04 - Entering the Tower.md",
     "content/Party/attachments/Pasted image 20240811122911.png",
@@ -183,7 +184,6 @@
     "quartz/styles/images.css",
     "quartz/styles/image-snippet.css",
     "content/Menzoberranza.md",
-    "content/Quests & Misc/Paragon Paths.md",
     "content/Places/attachments",
     "content/Places",
     "content/Party/attachments/Pasted image 20240810192516.png",
