@@ -3,4 +3,6 @@ date: 2024-08-06
 ---
 # Notes
 
-We navigate into an
+We navigate into another room with teleportation circles. [[Bird Hat]] and [[Ashken]] go through these but don't really find much beyond caves that open up to unknown locations.
+
+After that, we 
