@@ -16,6 +16,8 @@ The 3 of us returns to the mage's guild and pick up [[Ba'dr]] who has attacked t
 
 [[Rodger]] teleports us to the island and we find what we are looking for in the form of an old woman guarded/held by an Aasimar. We [banish](https://www.dndbeyond.com/spells/2010-banishment) him, but in doing so, the old woman disappears and escapes.
 
+We return to our teleportation spot and return to [[Baldur's Gate]].
+
 # Key Points
 
-* We release the first phylactery. 
+* We [[Release all the Phylacteries|release the first phylactery]].
