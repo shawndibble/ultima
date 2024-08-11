@@ -1,6 +1,8 @@
 ---
 date: 2024-05-21
 ---
+> [!tldr] Summary
+> We meet a mysterious shopkeeper who gives us a card for future visits and items. We teleport to Daggerford but arrive at night, so Ba'dr and Ashken steal horses with Bird Hat's help and head toward the tower. We are attacked during the night, but eventually reach the tower and pass a field that stops the crows from following.
 # Notes
 
 ## Supply Shopping
@@ -11,7 +13,7 @@ We also go to the emporium where we get a [Ring of Protection](https://www.dndbe
 
 ## Heading out.
 
-We utilize a teleportation circle to go to Dagger form (a town halfway to the tower), but we arrive at night when everything is closed. [[Ba'dr]] and [[Ashken]] steal horses while [[Bird Hat]] distracts the boy watching the stables. And ride out towards the tower.
+We utilize a teleportation circle to go to Daggerford (a town halfway to the tower), but we arrive at night when everything is closed. [[Ba'dr]] and [[Ashken]] steal horses while [[Bird Hat]] distracts the boy watching the stables. And ride out towards the tower.
 
 During the night we are attacked. The head enemy retreats saying "He's coming".
 
