@@ -2,11 +2,11 @@
 tags:
   - second-phylactery
 ---
-![banner](Pasted_image_20240811004036.png)
+![[Pasted_image_20240811004036.png|banner]]
 
 # Location Info
 
-A highly magical city of dark elves in the Underdark. 
+A highly magical city of dark elves in the Underdark.
 
 The teleportation circle to reach this place is located on top of a 200 cliff next to the city.
 

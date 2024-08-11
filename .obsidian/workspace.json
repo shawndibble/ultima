@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Places/Baldur's Gate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Places/Baldur's Gate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/Places/Baldur's Gate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Places/Menzoberanzza.md"
+                "file": "content/Places/Baldur's Gate.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
+    "content/Places/Menzoberanzza.md",
     "content/Places/attachments/Pasted_image_20240811004036.png",
     "content/Places/attachments/Pasted image 20240811004323.png",
-    "content/Places/Menzoberanzza.md",
     "content/Party/Thumper.md",
     "content/Sessions/04 - Entering the Tower.md",
     "content/Party/attachments/Pasted image 20240811122911.png",
