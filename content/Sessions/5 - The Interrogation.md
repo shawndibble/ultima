@@ -11,4 +11,4 @@ After the interrogation, we begin our trip back to [[Baldur's Gate]]. We encount
 
 Upon returning to the city, we discover that [[IO]] took down our guild crests and took both [[Theo]] and his with them.
 
-[[Ba'dr]] goes to a seer's home to find some answers. 
+[[Ba'dr]] goes to a the mage's guild on his own to find some information about the attac 
