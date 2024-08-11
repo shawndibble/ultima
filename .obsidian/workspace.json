@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/People/The Many Faced God.md",
+                "file": "content/People/Ultima.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/People/The Many Faced God.md",
+                "file": "content/People/Ultima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/People/The Many Faced God.md",
+                "file": "content/People/Ultima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/People/The Many Faced God.md"
+                "file": "content/People/Ultima.md"
               }
             }
           }
@@ -151,20 +151,21 @@
   "active": "17e712856987a579",
   "lastOpenFiles": [
     "content/People/Theo.md",
+    "content/People/The Many Faced God.md",
+    "content/Places/Moonshae Isles.md",
+    "content/Places/attachments/Pasted image 20240811125922.png",
+    "content/Places/attachments/Pasted image 20240811004323.png",
     "content/People/Ultima.md",
     "content/People/IO.md",
     "content/Sessions/05 - The Interrogation.md",
     "content/Sessions/06 - The First Phylactery.md",
     "content/Places/Baldur's Gate.md",
     "content/Places/Menzoberanzzan.md",
-    "content/Places/Moonshae Isles.md",
     "content/Party/Thumper.md",
-    "content/Places/attachments/Pasted image 20240811125922.png",
     "content/Sessions/08 - To the Underdark.md",
     "content/index.md",
     "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Places/attachments/Pasted_image_20240811004036.png",
-    "content/Places/attachments/Pasted image 20240811004323.png",
     "content/Sessions/04 - Entering the Tower.md",
     "content/Party/attachments/Pasted image 20240811122911.png",
     "content/Party/Bird Hat.md",
@@ -182,8 +183,6 @@
     "content/Menzoberranza.md",
     "content/Quests & Misc/Paragon Paths.md",
     "content/Places/attachments",
-    "content/People/The Many Faced God.md",
-    "content/People/Rodger.md",
     "content/Places",
     "content/Party/attachments/Pasted image 20240810192516.png",
     "content/Party/attachments",
