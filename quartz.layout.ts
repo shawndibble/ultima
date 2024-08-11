@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      //   GitHub: "https://github.com/jackyzha0/quartz",
-      //   "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/shawndibble/ultima/tree/v4/content",
+      Callouts: "https://help.obsidian.md/Editing+and+formatting/Callouts",
+      "Image Styling": "https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments",
     },
   }),
 }
