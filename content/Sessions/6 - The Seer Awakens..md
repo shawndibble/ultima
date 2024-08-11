@@ -12,4 +12,6 @@ We return to the manor and investigate. [[Bird Hat]] finds a Medusa illusion and
 
 The 3 of us returns to the mage's guild and pick up [[Ba'dr]] who has attacked the receptionist. We take the attached receptionist to our place but return to the guild the next day. In doing so, we also return the mage crest we picked up from the mages who attacked us at the tower ([[5 - The Interrogation]]). 
 
-[[Thumper]] goes off to one of the grand libra
+[[Thumper]] goes off to one of the grand libraries to investigate [[The Many Faced God]]. He discovers that a phylactery maybe located in the [[Moonshade Isles]]. 
+
+[[]]
