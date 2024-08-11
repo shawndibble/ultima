@@ -6,7 +6,7 @@ title: Ultima D&D Campaign
 
 # Current Status
 
-* In the City of [[Menzoberanzza]] in the Underdark trying to locate the [[Release all the Phylacteries|second phylactery]].
+* In the City of [[Menzoberanzzan]] in the Underdark trying to locate the [[Release all the Phylacteries|second phylactery]].
 
 # Players
  

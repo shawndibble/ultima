@@ -6,11 +6,11 @@ tags:
 
 # Released
 
-1. [[Moonshade Isles]]. Isle of Norland. Humanoid being. 
+1. [[Moonshae Isles]]. Isle of Norland. Humanoid being. 
 
 # In Progress
 
-2. [[Menzoberanzza]]. Whip owned by house of stein.
+2. [[Menzoberanzzan]]. Whip owned by house of stein.
 
 # Unknown
 
