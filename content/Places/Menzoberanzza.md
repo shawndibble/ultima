@@ -2,7 +2,7 @@
 tags:
   - second-phylactery
 ---
-![[Pasted image 20240811004036.png|banner]]
+![banner](Pasted_image_20240811004036.png)
 
 # Location Info
 
