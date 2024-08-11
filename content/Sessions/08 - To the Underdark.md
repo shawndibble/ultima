@@ -4,7 +4,7 @@ date: 2024-07-13
 
 # Notes
 
-The high priestess informs us that the next piece of the phylactery is located in [[Menzoberranza]] and is under control by the House of Stein. We do not have any other information.
+The high priestess informs us that the next piece of the phylactery is located in [[Menzoberanzza]] and is under control by the House of Stein. We do not have any other information.
 
 We go to the mage's guild and [[Rodger]] helps teleports us to our destination but warns us to ensure we do not disturb the teleportation circle when we arrive.
 

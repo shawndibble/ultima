@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "userIgnoreFilters": [
+    "docs/",
+    "node_modules/",
+    "public/"
+  ],
+  "alwaysUpdateLinks": true,
+  "foldHeading": false
+}

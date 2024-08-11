@@ -1,5 +1,4 @@
 ---
-title: 01 - Our Journey Begins
 date: 2024-04-30
 ---
 > [!tldr] Summary
