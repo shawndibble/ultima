@@ -16,4 +16,4 @@ Eventually we fight the 3. The arch mage takes out the whip weapon. We do defeat
 
 # Key Points
 
-* [[Bird Hat]] loses
+* [[Bird Hat]] loses his card
