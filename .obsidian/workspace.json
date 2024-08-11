@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Places/Menzoberanzza.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Places/Menzoberanzza.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -149,11 +149,6 @@
   },
   "active": "ad04ce3d2be3ee50",
   "lastOpenFiles": [
-    "content/Party/Thumper.md",
-    "quartz/styles/images.css",
-    "quartz/styles/image-snippet.css",
-    "content/Places/Menzoberanzza.md",
-    "content/Places/Moonshade Isles.md",
     "content/Quests & Misc/Release all the Phylacteries.md",
     "content/Sessions/01 - Our Journey Begins.md",
     "content/Sessions/02 - To the Mage's Guild.md",
@@ -165,6 +160,11 @@
     "content/Sessions/08 - To the Underdark.md",
     "content/Sessions/09 - The House of Stein.md",
     "content/Sessions/10 - Head of the House.md",
+    "content/Places/Menzoberanzza.md",
+    "content/Party/Thumper.md",
+    "quartz/styles/images.css",
+    "quartz/styles/image-snippet.css",
+    "content/Places/Moonshade Isles.md",
     "content/Menzoberranza.md",
     "content/index.md",
     "content/Party/Bird Hat.md",

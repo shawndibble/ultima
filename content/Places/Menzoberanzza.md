@@ -1,6 +1,8 @@
-#second-phylactery
-
-![[Pasted image 20240811004036.png]]
+---
+tags:
+  - second-phylactery
+---
+![[Pasted image 20240811004036.png|banner]]
 
 # Location Info
 

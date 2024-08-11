@@ -1,3 +1,9 @@
+---
+tags:
+  - first-phylactery
+  - second-phylactery
+---
+
 # Released
 
 1. [[Moonshade Isles]]. Isle of Norland. Humanoid being. 

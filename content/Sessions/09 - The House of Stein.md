@@ -1,5 +1,7 @@
 ---
 date: 2024-07-30
+tags:
+  - second-phylactery
 ---
 # Notes
 
