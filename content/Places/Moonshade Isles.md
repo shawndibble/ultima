@@ -1,3 +1,3 @@
 ![[Pasted image 20240811004323.png|300]]
-# Location info
-A group of islands in which we suspect a phylactery is located. 
+# Quest notes
+A group of islands in which we suspect the [[Release all the Phylacteries|first phylactery]] is located. Specifically in a town in Norland.
