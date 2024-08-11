@@ -14,4 +14,5 @@ The 3 of us returns to the mage's guild and pick up [[Ba'dr]] who has attacked t
 
 [[Thumper]] goes off to one of the grand libraries to investigate [[The Many Faced God]]. He discovers that a phylactery maybe located in the [[Moonshade Isles]]. 
 
-[[Rodger]] teleports us to the island and we find what we are looking for in the form of an old woman protected by 
+[[Rodger]] teleports us to the island and we find what we are looking for in the form of an old woman guarded/held by an Aasimar. We [banish](https://www.dndbeyond.com/spells/2010-banishment) him, but in doing so, the old woman disappears and escapes.
+
