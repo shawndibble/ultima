@@ -4,11 +4,7 @@
 | Player          | Shawn                                                       |
 | --------------- | ----------------------------------------------------------- |
 | Character sheet | [DnDBeyond](https://www.dndbeyond.com/characters/122811217) |
-| Role            | Melee Spellsword                                            |
-| Race            | Dark Elf                                                    |
-Player: Shawn
+| Role            | Chrono Wizard                                               |
+| Race            | Harengon                                                    |
 
-Character sheet: [DnDBeyond](https://www.dndbeyond.com/characters/122811217)
-
-Role: Wizard
 
