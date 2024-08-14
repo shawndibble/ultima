@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "content/Images",
   "userIgnoreFilters": [
     "docs/",
     "node_modules/",

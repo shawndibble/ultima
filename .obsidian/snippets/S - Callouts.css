@@ -944,6 +944,7 @@
   box-shadow: none;
   border: 0;
   width: auto;
+  background-color: transparent;
 }
 .callout[data-callout~="cards"] > .callout-title {
   display: none;
@@ -951,10 +952,16 @@
 .callout[data-callout~="cards"] > .callout-content {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 5px;
+  grid-gap: 1rem;
   border-radius: 0;
   padding-inline-start: 0px;
   padding: 0;
+}
+.callout[data-callout~="cards"] > .callout-content > p {
+  background-color: var(--bg);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  border: solid 1px var(--lightgray);
 }
 .callout[data-callout~="cards"] p {
   margin-block-start: 0;
