@@ -8,6 +8,8 @@ title: Ultima D&D Campaign
 
 * In the City of [[Menzoberanzzan]] in the Underdark trying to locate the [[Release all the Phylacteries|second phylactery]].
 
+# Directory
+
 > [!cards|2]
 > [![[dice-twenty-faces-twenty.png|wtiny center]]](Players)
 > **[Players](Players)**
