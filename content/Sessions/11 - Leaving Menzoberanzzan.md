@@ -20,7 +20,7 @@ We find a teleportation location directly above the city of [[Menzoberanzzan]] w
 
 We decide to walk through the city to find a way to the cliff opening. [[Ashken]] scouts ahead to see how we can get everyone out of the city and back to [[Baldur's Gate]].
 
-We Dimension Door all the refugees and then teleport back to [[Baldur's Gate]]. 
+We Dimension Door all the refugees and then teleport back to [[Baldur's Gate]].
 
 ## Back in Baldur's Gate
 
@@ -29,7 +29,6 @@ We Dimension Door all the refugees and then teleport back to [[Baldur's Gate]].
 [[Bird Hat]] and [[Thumper]] seeks help with [[Rodger]] on this glowing energy coming from Bird. Unfortunately, Rodger is unavailable, but pencils us in for tomorrow.
 
 We then make our way to the other Phylactery people in the sewers.
-# Loot
 
 All these items require attunement.
 * Wand - Meta magic wand. Cast 1 spell per day with any Meta magic modifier. [[Thumper]]
