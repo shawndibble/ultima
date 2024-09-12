@@ -1,0 +1,1 @@
+* Priests of the Faceless god is missing. Taken by one of the churches from a "good" god.
