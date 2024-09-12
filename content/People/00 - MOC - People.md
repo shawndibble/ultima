@@ -1,4 +1,4 @@
 
 ```dataview
-LIST from "People" where !contains("MOC", file.name)
+LIST FROM "content/People" where !contains("MOC", file.name)
 ```
