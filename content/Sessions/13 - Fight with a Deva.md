@@ -11,3 +11,5 @@ date: 2024-09-18
 Our group meets back up and [[Ashken]] has an inky black bird on his head. It collapses into a map pointing where we need to go. 
 
 He head to the church it marks.
+
+> [!info] We reach level 12
