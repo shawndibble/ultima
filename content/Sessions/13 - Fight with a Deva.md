@@ -1,7 +1,7 @@
 ---
 date: 2024-09-18
 ---
-
+<< [[12 - A Priestess Goes Missing]] | [[14 - Tyr's Temple]] >>
 # Notes
 
 [[Thumper]] sent out his familiar to find back birds but it returned and find nothing. Upon returning he sees that [[Ba'dr]] and [[Ashken]] are in combat with a Deva. 

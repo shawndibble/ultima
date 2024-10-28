@@ -1,6 +1,7 @@
 ---
 date: 2024-08-27
 ---
+<< [[10 - Head of the House]] | [[12 - A Priestess Goes Missing]] >>
 # Notes
 ## The Matriarch is Dead
 

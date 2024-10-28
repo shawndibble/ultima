@@ -1,6 +1,7 @@
 ---
 date: 2024-09-11
 ---
+<< [[11 - Leaving Menzoberanzzan]] | [[13 - Fight with a Deva]] >>
 # Notes
 
 The gnome we picked up from the dark elves house is sticking with us. His name is [[Til'hawk]]. [[Ba'dr]] gives his gnome friend a bunch of gear.
